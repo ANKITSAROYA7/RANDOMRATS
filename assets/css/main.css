@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@100;200;300;400;500;600;700&family=Press+Start+2P&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box !important;
+    text-decoration: none !important;
+    list-style-type: none !important;
+    transition: 260ms;
+}
+
+
+.text-str {
+    text-decoration: line-through red !important;
+}
+
+
+
+
+
+.wallet-connect-btn {
+    border-radius: 69.041px;
+    background: #F61529;
+    color: #FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    padding: 19px 21px;
+}
+
+
+
+
+.media-handle-wh {
+    max-width: 25px;
+    min-height: 25px;
+}
+
+.logo-wh {
+    max-width: 220px;
+    min-height: 48px;
+}
+
+.lineh-161 {
+    line-height: 100px;
+}
+
+.py-60-30 {
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+.blast-wh {
+    width: 160.349px;
+    height: 160.349px;
+}
+
+.box-position{
+    top: -1px;
+    left: -1%;
+
+}
+
+.bg-mouse-left{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.bg-mouse-right{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.main-img {
+    max-width: 291px;
+    min-height: 289px;
+}
+
+.px-45-40 {
+    padding-right: 25px;
+    padding-left: 20px;
+}
+
+.pl-16 {
+    padding-left: 13px;
+    padding-right: 25px;
+}
+
+.pl-40 {
+    padding-left: 28px;
+    padding-right: 25px;
+}
+
+.pl-28 {
+    padding-left: 21px;
+    padding-right: 25px;
+}
+
+.blast-wh {
+    width: 60px;
+    height: 60px;
+}
+
+@media (min-width:576px) {
+    .logo-wh {
+        max-width: 370px;
+        min-height: 55px;
+    }
+
+    .lineh-161 {
+        line-height: 120px;
+    }
+
+    .py-60-30 {
+        padding-top: 35px;
+        padding-bottom: 22px;
+    }
+
+    .main-img {
+        max-width: 346px;
+        min-height: 346px;
+    }
+
+    .px-45-40 {
+        padding-right: 27px;
+        padding-left: 22px;
+    }
+    .blast-wh {
+        width: 100px;
+        height: 100px;
+    }
+
+    .pl-16 {
+        padding-left: 9px;
+        padding-right: 25px;
+    }
+    
+   
+    
+    .pl-28 {
+        padding-left: 19px;
+        padding-right: 25px;
+    }
+
+
+}
+
+@media (min-width:768px) {
+    .media-handle-wh {
+        max-width: 35px;
+        min-height: 35px;
+    }
+
+    .lineh-161 {
+        line-height: 140px;
+    }
+
+    .py-60-30 {
+        padding-top: 40px;
+        padding-bottom: 25px;
+    }
+    .px-45-40 {
+        padding-right: 45px;
+        padding-left: 40px;
+    }
+
+    .pl-16 {
+        padding-left: 16px;
+        padding-right: 40px;
+    }
+    
+    .pl-40 {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    
+    .pl-28 {
+        padding-left: 28px;
+        padding-right: 40px;
+    }
+
+    .blast-wh {
+        width: 160.349px;
+        height: 160.349px;
+    }
+}
+
+@media (min-width:992px) {
+    .logo-wh {
+        max-width: 420px;
+        min-height: 68px;
+    }
+
+    .py-60-30 {
+        padding-top: 63px;
+        padding-bottom: 30px;
+    }
+}
+
+@media (min-width:1200px) {
+
+    .media-handle-wh {
+        max-width: 48px;
+        min-height: 48px;
+    }
+
+    .logo-wh {
+        max-width: 573.396px;
+        min-height: 93.768px;
+    }
+
+    .lineh-161 {
+        line-height: 161px;
+    }
+
+  
+}
